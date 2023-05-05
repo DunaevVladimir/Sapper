@@ -1,0 +1,45 @@
+.number {
+	flex: 0 1 12px;
+	height: 23px;
+	background: url(../../img/sprite.png);
+}
+
+.zero {
+	background-position: -126px 0;
+}
+
+.one {
+	background-position: 0 0;
+}
+
+.two {
+	background-position: -14px 0;
+}
+
+.three {
+	background-position: -28px 0;
+}
+
+.four {
+	background-position: -42px 0;
+}
+
+.five {
+	background-position: -56px 0;
+}
+
+.six {
+	background-position: -70px 0;
+}
+
+.seven {
+	background-position: -84px 0;
+}
+
+.eight {
+	background-position: -98px 0;
+}
+
+.nine {
+	background-position: -112px 0;
+}

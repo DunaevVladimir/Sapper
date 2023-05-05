@@ -1,0 +1,25 @@
+.smiley {
+	flex: 0 1 26px;
+	height: 26px;
+	background: url(../../img/sprite.png);
+}
+
+.smiley:active {
+	background-position: -27px -24px;
+}
+
+.default {
+	background-position: 0 -24px;
+}
+
+.scared {
+	background-position: -54px -24px;
+}
+
+.sad {
+	background-position: -108px -24px;
+}
+
+.sunglasses {
+	background-position: -81px -24px;
+}
